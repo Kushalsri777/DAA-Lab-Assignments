@@ -9,7 +9,7 @@ int main(){
     for(int i=0;i<n;i++){
         cin>>arr[i];
     }
-    cout<<"Enter the number you want to find..";
+    cout<<"Enter the number to find: ";
     int temp;
     cin>>temp;
     bool isFound = false;
